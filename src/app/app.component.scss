@@ -1,0 +1,9 @@
+p{
+    font-size: large;
+    color: rgb(24, 24, 155);
+    font-weight: bolder;
+    &.sm{
+        font-size: small;
+        color: red;
+    }
+}
